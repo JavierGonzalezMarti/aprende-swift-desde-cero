@@ -39,3 +39,8 @@ Puedes dejar sugerencias, correcciones o ánimos en la sección de Issues o con 
 ---
 
 > _Gracias por pasarte. Vamos poco a poco, pero vamos bien._ 💪
+
+&nbsp; 
+
+
+<img src="https://sora.chatgpt.com/g/gen_01jzq4rpejeefvkd79n3c7pqd7" alt="aprende-swift-desde-cero" width="500"/>
