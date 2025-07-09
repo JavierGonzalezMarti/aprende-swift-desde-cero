@@ -6,7 +6,7 @@
 Soy una persona que está aprendiendo a programar en **Swift desde cero**.  
 Desde cero **de verdad** — no como esos vídeos o cursos que dicen ser "para principiantes" pero en realidad esperan que ya sepas programar en otro lenguaje. 😅
 
-
+&nbsp;  
 
 ## 📚 ¿Qué es este repositorio?
 
@@ -14,7 +14,7 @@ Este repositorio es mi **cuaderno de viaje**: aquí voy documentando todo lo que
 
 🗂️ Cada carpeta contiene un pequeño proyecto de Xcode centrado en un concepto específico que voy descubriendo...
 
-
+&nbsp;  
 
 ## 🌱 Mi propósito
 
@@ -26,7 +26,7 @@ Quiero que sirva como guía, diario y archivo de práctica para mí y, si puede 
 > Ese es mi nivel inicial, hoy **9 de julio de 2025**.  
 > El primer paso de un viaje que no sabemos dónde acabará...
 
-
+&nbsp;  
 
 ## 🤝 ¿Te unes?
 
