@@ -1,5 +1,7 @@
 # 🚀 Aprende Swift desde Cero
 
+![Logo de Swift](https://swift.org/assets/images/swift.svg)
+
 ¡Hola! 👋  
 Soy una persona que está aprendiendo a programar en **Swift desde cero**.  
 Desde cero **de verdad** — no como esos vídeos o cursos que dicen ser "para principiantes" pero en realidad esperan que ya sepas programar en otro lenguaje. 😅
