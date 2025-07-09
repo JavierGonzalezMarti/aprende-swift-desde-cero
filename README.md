@@ -1,6 +1,6 @@
 # 🚀 Aprende Swift desde Cero
 
-![Logo de Swift](https://swift.org/assets/images/swift.svg)
+<img src="https://swift.org/assets/images/swift.svg" alt="Logo de Swift" width="500"/>
 
 ¡Hola! 👋  
 Soy una persona que está aprendiendo a programar en **Swift desde cero**.  
