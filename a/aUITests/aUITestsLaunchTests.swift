@@ -1,8 +1,13 @@
-//___FILEHEADER___
+//
+//  aUITestsLaunchTests.swift
+//  aUITests
+//
+//  Created by Javi on 9/7/25.
+//
 
 import XCTest
 
-final class ___FILEBASENAMEASIDENTIFIER___: XCTestCase {
+final class aUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

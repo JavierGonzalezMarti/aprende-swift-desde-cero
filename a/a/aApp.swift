@@ -1,9 +1,14 @@
-//___FILEHEADER___
+//
+//  aApp.swift
+//  a
+//
+//  Created by Javi on 9/7/25.
+//
 
 import SwiftUI
 
 @main
-struct ___PACKAGENAME:identifier___App: App {
+struct aApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
