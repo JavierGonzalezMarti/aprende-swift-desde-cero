@@ -1,13 +1,8 @@
-//
-//  aprende_swift_desde_ceroUITestsLaunchTests.swift
-//  aprende-swift-desde-ceroUITests
-//
-//  Created by Javi on 9/7/25.
-//
+//___FILEHEADER___
 
 import XCTest
 
-final class aprende_swift_desde_ceroUITestsLaunchTests: XCTestCase {
+final class ___FILEBASENAMEASIDENTIFIER___: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

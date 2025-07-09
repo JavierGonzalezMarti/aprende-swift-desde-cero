@@ -7,62 +7,62 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		59E2915F2E1E567500E8D00F /* PBXContainerItemProxy */ = {
+		59E291952E1E595F00E8D00F /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 59E291482E1E567400E8D00F /* Project object */;
+			containerPortal = 59E2917E2E1E595E00E8D00F /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 59E2914F2E1E567400E8D00F;
-			remoteInfo = "aprende-swift-desde-cero";
+			remoteGlobalIDString = 59E291852E1E595E00E8D00F;
+			remoteInfo = "01 - Variables";
 		};
-		59E291692E1E567500E8D00F /* PBXContainerItemProxy */ = {
+		59E2919F2E1E595F00E8D00F /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 59E291482E1E567400E8D00F /* Project object */;
+			containerPortal = 59E2917E2E1E595E00E8D00F /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 59E2914F2E1E567400E8D00F;
-			remoteInfo = "aprende-swift-desde-cero";
+			remoteGlobalIDString = 59E291852E1E595E00E8D00F;
+			remoteInfo = "01 - Variables";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		59E291502E1E567400E8D00F /* aprende-swift-desde-cero.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "aprende-swift-desde-cero.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		59E2915E2E1E567500E8D00F /* aprende-swift-desde-ceroTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "aprende-swift-desde-ceroTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		59E291682E1E567500E8D00F /* aprende-swift-desde-ceroUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "aprende-swift-desde-ceroUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		59E291862E1E595E00E8D00F /* 01 - Variables.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "01 - Variables.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		59E291942E1E595F00E8D00F /* 01 - VariablesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "01 - VariablesTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		59E2919E2E1E595F00E8D00F /* 01 - VariablesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "01 - VariablesUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		59E291522E1E567400E8D00F /* aprende-swift-desde-cero */ = {
+		59E291882E1E595E00E8D00F /* 01 - Variables */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "aprende-swift-desde-cero";
+			path = "01 - Variables";
 			sourceTree = "<group>";
 		};
-		59E291612E1E567500E8D00F /* aprende-swift-desde-ceroTests */ = {
+		59E291972E1E595F00E8D00F /* 01 - VariablesTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "aprende-swift-desde-ceroTests";
+			path = "01 - VariablesTests";
 			sourceTree = "<group>";
 		};
-		59E2916B2E1E567500E8D00F /* aprende-swift-desde-ceroUITests */ = {
+		59E291A12E1E595F00E8D00F /* 01 - VariablesUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "aprende-swift-desde-ceroUITests";
+			path = "01 - VariablesUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		59E2914D2E1E567400E8D00F /* Frameworks */ = {
+		59E291832E1E595E00E8D00F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		59E2915B2E1E567500E8D00F /* Frameworks */ = {
+		59E291912E1E595F00E8D00F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		59E291652E1E567500E8D00F /* Frameworks */ = {
+		59E2919B2E1E595F00E8D00F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		59E291472E1E567400E8D00F = {
+		59E2917D2E1E595E00E8D00F = {
 			isa = PBXGroup;
 			children = (
-				59E291522E1E567400E8D00F /* aprende-swift-desde-cero */,
-				59E291612E1E567500E8D00F /* aprende-swift-desde-ceroTests */,
-				59E2916B2E1E567500E8D00F /* aprende-swift-desde-ceroUITests */,
-				59E291512E1E567400E8D00F /* Products */,
+				59E291882E1E595E00E8D00F /* 01 - Variables */,
+				59E291972E1E595F00E8D00F /* 01 - VariablesTests */,
+				59E291A12E1E595F00E8D00F /* 01 - VariablesUITests */,
+				59E291872E1E595E00E8D00F /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		59E291512E1E567400E8D00F /* Products */ = {
+		59E291872E1E595E00E8D00F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				59E291502E1E567400E8D00F /* aprende-swift-desde-cero.app */,
-				59E2915E2E1E567500E8D00F /* aprende-swift-desde-ceroTests.xctest */,
-				59E291682E1E567500E8D00F /* aprende-swift-desde-ceroUITests.xctest */,
+				59E291862E1E595E00E8D00F /* 01 - Variables.app */,
+				59E291942E1E595F00E8D00F /* 01 - VariablesTests.xctest */,
+				59E2919E2E1E595F00E8D00F /* 01 - VariablesUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,134 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		59E2914F2E1E567400E8D00F /* aprende-swift-desde-cero */ = {
+		59E291852E1E595E00E8D00F /* 01 - Variables */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 59E291722E1E567500E8D00F /* Build configuration list for PBXNativeTarget "aprende-swift-desde-cero" */;
+			buildConfigurationList = 59E291A82E1E595F00E8D00F /* Build configuration list for PBXNativeTarget "01 - Variables" */;
 			buildPhases = (
-				59E2914C2E1E567400E8D00F /* Sources */,
-				59E2914D2E1E567400E8D00F /* Frameworks */,
-				59E2914E2E1E567400E8D00F /* Resources */,
+				59E291822E1E595E00E8D00F /* Sources */,
+				59E291832E1E595E00E8D00F /* Frameworks */,
+				59E291842E1E595E00E8D00F /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				59E291522E1E567400E8D00F /* aprende-swift-desde-cero */,
+				59E291882E1E595E00E8D00F /* 01 - Variables */,
 			);
-			name = "aprende-swift-desde-cero";
+			name = "01 - Variables";
 			packageProductDependencies = (
 			);
-			productName = "aprende-swift-desde-cero";
-			productReference = 59E291502E1E567400E8D00F /* aprende-swift-desde-cero.app */;
+			productName = "01 - Variables";
+			productReference = 59E291862E1E595E00E8D00F /* 01 - Variables.app */;
 			productType = "com.apple.product-type.application";
 		};
-		59E2915D2E1E567500E8D00F /* aprende-swift-desde-ceroTests */ = {
+		59E291932E1E595F00E8D00F /* 01 - VariablesTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 59E291752E1E567500E8D00F /* Build configuration list for PBXNativeTarget "aprende-swift-desde-ceroTests" */;
+			buildConfigurationList = 59E291AB2E1E595F00E8D00F /* Build configuration list for PBXNativeTarget "01 - VariablesTests" */;
 			buildPhases = (
-				59E2915A2E1E567500E8D00F /* Sources */,
-				59E2915B2E1E567500E8D00F /* Frameworks */,
-				59E2915C2E1E567500E8D00F /* Resources */,
+				59E291902E1E595F00E8D00F /* Sources */,
+				59E291912E1E595F00E8D00F /* Frameworks */,
+				59E291922E1E595F00E8D00F /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				59E291602E1E567500E8D00F /* PBXTargetDependency */,
+				59E291962E1E595F00E8D00F /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				59E291612E1E567500E8D00F /* aprende-swift-desde-ceroTests */,
+				59E291972E1E595F00E8D00F /* 01 - VariablesTests */,
 			);
-			name = "aprende-swift-desde-ceroTests";
+			name = "01 - VariablesTests";
 			packageProductDependencies = (
 			);
-			productName = "aprende-swift-desde-ceroTests";
-			productReference = 59E2915E2E1E567500E8D00F /* aprende-swift-desde-ceroTests.xctest */;
+			productName = "01 - VariablesTests";
+			productReference = 59E291942E1E595F00E8D00F /* 01 - VariablesTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		59E291672E1E567500E8D00F /* aprende-swift-desde-ceroUITests */ = {
+		59E2919D2E1E595F00E8D00F /* 01 - VariablesUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 59E291782E1E567500E8D00F /* Build configuration list for PBXNativeTarget "aprende-swift-desde-ceroUITests" */;
+			buildConfigurationList = 59E291AE2E1E595F00E8D00F /* Build configuration list for PBXNativeTarget "01 - VariablesUITests" */;
 			buildPhases = (
-				59E291642E1E567500E8D00F /* Sources */,
-				59E291652E1E567500E8D00F /* Frameworks */,
-				59E291662E1E567500E8D00F /* Resources */,
+				59E2919A2E1E595F00E8D00F /* Sources */,
+				59E2919B2E1E595F00E8D00F /* Frameworks */,
+				59E2919C2E1E595F00E8D00F /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				59E2916A2E1E567500E8D00F /* PBXTargetDependency */,
+				59E291A02E1E595F00E8D00F /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				59E2916B2E1E567500E8D00F /* aprende-swift-desde-ceroUITests */,
+				59E291A12E1E595F00E8D00F /* 01 - VariablesUITests */,
 			);
-			name = "aprende-swift-desde-ceroUITests";
+			name = "01 - VariablesUITests";
 			packageProductDependencies = (
 			);
-			productName = "aprende-swift-desde-ceroUITests";
-			productReference = 59E291682E1E567500E8D00F /* aprende-swift-desde-ceroUITests.xctest */;
+			productName = "01 - VariablesUITests";
+			productReference = 59E2919E2E1E595F00E8D00F /* 01 - VariablesUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		59E291482E1E567400E8D00F /* Project object */ = {
+		59E2917E2E1E595E00E8D00F /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1640;
 				LastUpgradeCheck = 1640;
 				TargetAttributes = {
-					59E2914F2E1E567400E8D00F = {
+					59E291852E1E595E00E8D00F = {
 						CreatedOnToolsVersion = 16.4;
 					};
-					59E2915D2E1E567500E8D00F = {
+					59E291932E1E595F00E8D00F = {
 						CreatedOnToolsVersion = 16.4;
-						TestTargetID = 59E2914F2E1E567400E8D00F;
+						TestTargetID = 59E291852E1E595E00E8D00F;
 					};
-					59E291672E1E567500E8D00F = {
+					59E2919D2E1E595F00E8D00F = {
 						CreatedOnToolsVersion = 16.4;
-						TestTargetID = 59E2914F2E1E567400E8D00F;
+						TestTargetID = 59E291852E1E595E00E8D00F;
 					};
 				};
 			};
-			buildConfigurationList = 59E2914B2E1E567400E8D00F /* Build configuration list for PBXProject "aprende-swift-desde-cero" */;
+			buildConfigurationList = 59E291812E1E595E00E8D00F /* Build configuration list for PBXProject "01 - Variables" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 59E291472E1E567400E8D00F;
+			mainGroup = 59E2917D2E1E595E00E8D00F;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 59E291512E1E567400E8D00F /* Products */;
+			productRefGroup = 59E291872E1E595E00E8D00F /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				59E2914F2E1E567400E8D00F /* aprende-swift-desde-cero */,
-				59E2915D2E1E567500E8D00F /* aprende-swift-desde-ceroTests */,
-				59E291672E1E567500E8D00F /* aprende-swift-desde-ceroUITests */,
+				59E291852E1E595E00E8D00F /* 01 - Variables */,
+				59E291932E1E595F00E8D00F /* 01 - VariablesTests */,
+				59E2919D2E1E595F00E8D00F /* 01 - VariablesUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		59E2914E2E1E567400E8D00F /* Resources */ = {
+		59E291842E1E595E00E8D00F /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		59E2915C2E1E567500E8D00F /* Resources */ = {
+		59E291922E1E595F00E8D00F /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		59E291662E1E567500E8D00F /* Resources */ = {
+		59E2919C2E1E595F00E8D00F /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		59E2914C2E1E567400E8D00F /* Sources */ = {
+		59E291822E1E595E00E8D00F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		59E2915A2E1E567500E8D00F /* Sources */ = {
+		59E291902E1E595F00E8D00F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		59E291642E1E567500E8D00F /* Sources */ = {
+		59E2919A2E1E595F00E8D00F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		59E291602E1E567500E8D00F /* PBXTargetDependency */ = {
+		59E291962E1E595F00E8D00F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 59E2914F2E1E567400E8D00F /* aprende-swift-desde-cero */;
-			targetProxy = 59E2915F2E1E567500E8D00F /* PBXContainerItemProxy */;
+			target = 59E291852E1E595E00E8D00F /* 01 - Variables */;
+			targetProxy = 59E291952E1E595F00E8D00F /* PBXContainerItemProxy */;
 		};
-		59E2916A2E1E567500E8D00F /* PBXTargetDependency */ = {
+		59E291A02E1E595F00E8D00F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 59E2914F2E1E567400E8D00F /* aprende-swift-desde-cero */;
-			targetProxy = 59E291692E1E567500E8D00F /* PBXContainerItemProxy */;
+			target = 59E291852E1E595E00E8D00F /* 01 - Variables */;
+			targetProxy = 59E2919F2E1E595F00E8D00F /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		59E291702E1E567500E8D00F /* Debug */ = {
+		59E291A62E1E595F00E8D00F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -330,7 +330,7 @@
 			};
 			name = Debug;
 		};
-		59E291712E1E567500E8D00F /* Release */ = {
+		59E291A72E1E595F00E8D00F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -383,12 +383,12 @@
 			};
 			name = Release;
 		};
-		59E291732E1E567500E8D00F /* Debug */ = {
+		59E291A92E1E595F00E8D00F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = "aprende-swift-desde-cero/aprende_swift_desde_cero.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "01 - Variables/_1___Variables.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_PREVIEWS = YES;
@@ -408,7 +408,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Javi.aprende-swift-desde-cero";
+				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-1---Variables";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
@@ -420,12 +420,12 @@
 			};
 			name = Debug;
 		};
-		59E291742E1E567500E8D00F /* Release */ = {
+		59E291AA2E1E595F00E8D00F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = "aprende-swift-desde-cero/aprende_swift_desde_cero.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "01 - Variables/_1___Variables.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_PREVIEWS = YES;
@@ -445,7 +445,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Javi.aprende-swift-desde-cero";
+				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-1---Variables";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
@@ -457,7 +457,7 @@
 			};
 			name = Release;
 		};
-		59E291762E1E567500E8D00F /* Debug */ = {
+		59E291AC2E1E595F00E8D00F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -467,19 +467,19 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Javi.aprende-swift-desde-ceroTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-1---VariablesTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/aprende-swift-desde-cero.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/aprende-swift-desde-cero";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/01 - Variables.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/01 - Variables";
 				XROS_DEPLOYMENT_TARGET = 2.5;
 			};
 			name = Debug;
 		};
-		59E291772E1E567500E8D00F /* Release */ = {
+		59E291AD2E1E595F00E8D00F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -489,19 +489,19 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Javi.aprende-swift-desde-ceroTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-1---VariablesTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/aprende-swift-desde-cero.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/aprende-swift-desde-cero";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/01 - Variables.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/01 - Variables";
 				XROS_DEPLOYMENT_TARGET = 2.5;
 			};
 			name = Release;
 		};
-		59E291792E1E567500E8D00F /* Debug */ = {
+		59E291AF2E1E595F00E8D00F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -510,19 +510,19 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Javi.aprende-swift-desde-ceroUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-1---VariablesUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_TARGET_NAME = "aprende-swift-desde-cero";
+				TEST_TARGET_NAME = "01 - Variables";
 				XROS_DEPLOYMENT_TARGET = 2.5;
 			};
 			name = Debug;
 		};
-		59E2917A2E1E567500E8D00F /* Release */ = {
+		59E291B02E1E595F00E8D00F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -531,14 +531,14 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Javi.aprende-swift-desde-ceroUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-1---VariablesUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_TARGET_NAME = "aprende-swift-desde-cero";
+				TEST_TARGET_NAME = "01 - Variables";
 				XROS_DEPLOYMENT_TARGET = 2.5;
 			};
 			name = Release;
@@ -546,43 +546,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		59E2914B2E1E567400E8D00F /* Build configuration list for PBXProject "aprende-swift-desde-cero" */ = {
+		59E291812E1E595E00E8D00F /* Build configuration list for PBXProject "01 - Variables" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				59E291702E1E567500E8D00F /* Debug */,
-				59E291712E1E567500E8D00F /* Release */,
+				59E291A62E1E595F00E8D00F /* Debug */,
+				59E291A72E1E595F00E8D00F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		59E291722E1E567500E8D00F /* Build configuration list for PBXNativeTarget "aprende-swift-desde-cero" */ = {
+		59E291A82E1E595F00E8D00F /* Build configuration list for PBXNativeTarget "01 - Variables" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				59E291732E1E567500E8D00F /* Debug */,
-				59E291742E1E567500E8D00F /* Release */,
+				59E291A92E1E595F00E8D00F /* Debug */,
+				59E291AA2E1E595F00E8D00F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		59E291752E1E567500E8D00F /* Build configuration list for PBXNativeTarget "aprende-swift-desde-ceroTests" */ = {
+		59E291AB2E1E595F00E8D00F /* Build configuration list for PBXNativeTarget "01 - VariablesTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				59E291762E1E567500E8D00F /* Debug */,
-				59E291772E1E567500E8D00F /* Release */,
+				59E291AC2E1E595F00E8D00F /* Debug */,
+				59E291AD2E1E595F00E8D00F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		59E291782E1E567500E8D00F /* Build configuration list for PBXNativeTarget "aprende-swift-desde-ceroUITests" */ = {
+		59E291AE2E1E595F00E8D00F /* Build configuration list for PBXNativeTarget "01 - VariablesUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				59E291792E1E567500E8D00F /* Debug */,
-				59E2917A2E1E567500E8D00F /* Release */,
+				59E291AF2E1E595F00E8D00F /* Debug */,
+				59E291B02E1E595F00E8D00F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 59E291482E1E567400E8D00F /* Project object */;
+	rootObject = 59E2917E2E1E595E00E8D00F /* Project object */;
 }

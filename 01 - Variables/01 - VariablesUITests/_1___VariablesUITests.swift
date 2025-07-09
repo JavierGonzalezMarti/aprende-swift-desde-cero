@@ -1,13 +1,8 @@
-//
-//  aprende_swift_desde_ceroUITests.swift
-//  aprende-swift-desde-ceroUITests
-//
-//  Created by Javi on 9/7/25.
-//
+//___FILEHEADER___
 
 import XCTest
 
-final class aprende_swift_desde_ceroUITests: XCTestCase {
+final class ___FILEBASENAMEASIDENTIFIER___: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

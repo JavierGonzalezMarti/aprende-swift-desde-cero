@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  aprende-swift-desde-cero
+//  01 - Variables
 //
 //  Created by Javi on 9/7/25.
 //
