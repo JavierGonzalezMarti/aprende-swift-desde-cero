@@ -42,7 +42,7 @@ if let años = edad {
 // Creamos una variable opcional llamada apodo, que puede ser texto o estar vacía (nil)
 var apodo: String? = nil // Puede tener un texto o estar vacía
 
-// Queremos mostrar el apodo, pero si no tiene valor (es nil), mostraremos "Sin apodo"
+// Queremos mostrar el apodo, pero si no tiene valor (es nil), mostraremos "Sin apodo".
 let mostrarApodo = apodo ?? "Sin apodo" // Si apodo está vacía, usa "Sin apodo" como valor
 
 print(mostrarApodo) // Resultado: "Sin apodo"
