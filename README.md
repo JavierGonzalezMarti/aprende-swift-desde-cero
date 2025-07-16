@@ -41,6 +41,3 @@ Puedes dejar sugerencias, correcciones o ánimos en la sección de Issues o con 
 > _Gracias por pasarte. Vamos poco a poco, pero vamos bien._ 💪
 
 &nbsp; 
-
-
-<img src="https://videos.openai.com/vg-assets/assets%2Ftask_01jzq4rn6kf29sw4et0x0etpwq%2F1752049741_img_1.webp?st=2025-07-09T07%3A21%3A53Z&se=2025-07-15T08%3A21%3A53Z&sks=b&skt=2025-07-09T07%3A21%3A53Z&ske=2025-07-15T08%3A21%3A53Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=Md7y%2B%2Boq6R2P98Oc%2FW7%2BgYQOeGiLfQJUl6yCeKhdd8k%3D&az=oaivgprodscus" alt="aprende-swift-desde-cero" width="500"/>
