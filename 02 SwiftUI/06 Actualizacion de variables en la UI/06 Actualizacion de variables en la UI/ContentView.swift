@@ -8,12 +8,51 @@
 import SwiftUI
 
 struct ContentView: View {
+    @State var contadorPulsaciones = 0
     var body: some View {
         VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+            
+            Text("\(contadorPulsaciones)")
+                .font(.largeTitle)
+            
+            
+            Button(action:
+                    {
+                contadorPulsaciones += 1
+                print ("Pulsado \(contadorPulsaciones) veces")
+                
+                
+            },
+                   
+                   
+                   label:
+                    {Text("Púlsame para actualizar la variable en pantalla")})
+            . frame(width: 300, height: 50)
+            .background(Color.blue)
+            .foregroundColor(.white)
+            .cornerRadius(20)
+            
+            
+            Button(action:
+                    {
+                contadorPulsaciones = 0
+                print ("Se ha reiniciado las pulsaciones a \(contadorPulsaciones).")
+                
+                
+            },
+                   
+                   
+                   label:
+                    {
+                        Image(systemName: "arrow.trianglehead.counterclockwise")
+                           
+                    })
+            .frame(width: 100, height: 50)
+            .background(Color.red)
+            .foregroundColor(.white)
+            .cornerRadius(20)
+            
+                
         }
         .padding()
     }
