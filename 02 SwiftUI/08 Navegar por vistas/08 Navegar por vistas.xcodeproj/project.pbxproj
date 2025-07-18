@@ -7,62 +7,62 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		5929DA552E28ED0100198B28 /* PBXContainerItemProxy */ = {
+		59FAA7AE2E293B2E007301BE /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 5929DA3E2E28ED0000198B28 /* Project object */;
+			containerPortal = 59FAA7972E293B2D007301BE /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 5929DA452E28ED0000198B28;
-			remoteInfo = "07 Componente TextField";
+			remoteGlobalIDString = 59FAA79E2E293B2D007301BE;
+			remoteInfo = "08 Navegar por vistas";
 		};
-		5929DA5F2E28ED0100198B28 /* PBXContainerItemProxy */ = {
+		59FAA7B82E293B2E007301BE /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 5929DA3E2E28ED0000198B28 /* Project object */;
+			containerPortal = 59FAA7972E293B2D007301BE /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 5929DA452E28ED0000198B28;
-			remoteInfo = "07 Componente TextField";
+			remoteGlobalIDString = 59FAA79E2E293B2D007301BE;
+			remoteInfo = "08 Navegar por vistas";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		5929DA462E28ED0000198B28 /* 07 Componente TextField.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "07 Componente TextField.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5929DA542E28ED0100198B28 /* 07 Componente TextFieldTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "07 Componente TextFieldTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5929DA5E2E28ED0100198B28 /* 07 Componente TextFieldUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "07 Componente TextFieldUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		59FAA79F2E293B2D007301BE /* 08 Navegar por vistas.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "08 Navegar por vistas.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		59FAA7AD2E293B2E007301BE /* 08 Navegar por vistasTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "08 Navegar por vistasTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		59FAA7B72E293B2E007301BE /* 08 Navegar por vistasUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "08 Navegar por vistasUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		5929DA482E28ED0000198B28 /* 07 Componente TextField */ = {
+		59FAA7A12E293B2D007301BE /* 08 Navegar por vistas */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "07 Componente TextField";
+			path = "08 Navegar por vistas";
 			sourceTree = "<group>";
 		};
-		5929DA572E28ED0100198B28 /* 07 Componente TextFieldTests */ = {
+		59FAA7B02E293B2E007301BE /* 08 Navegar por vistasTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "07 Componente TextFieldTests";
+			path = "08 Navegar por vistasTests";
 			sourceTree = "<group>";
 		};
-		5929DA612E28ED0100198B28 /* 07 Componente TextFieldUITests */ = {
+		59FAA7BA2E293B2E007301BE /* 08 Navegar por vistasUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "07 Componente TextFieldUITests";
+			path = "08 Navegar por vistasUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		5929DA432E28ED0000198B28 /* Frameworks */ = {
+		59FAA79C2E293B2D007301BE /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5929DA512E28ED0100198B28 /* Frameworks */ = {
+		59FAA7AA2E293B2E007301BE /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5929DA5B2E28ED0100198B28 /* Frameworks */ = {
+		59FAA7B42E293B2E007301BE /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		5929DA3D2E28ED0000198B28 = {
+		59FAA7962E293B2D007301BE = {
 			isa = PBXGroup;
 			children = (
-				5929DA482E28ED0000198B28 /* 07 Componente TextField */,
-				5929DA572E28ED0100198B28 /* 07 Componente TextFieldTests */,
-				5929DA612E28ED0100198B28 /* 07 Componente TextFieldUITests */,
-				5929DA472E28ED0000198B28 /* Products */,
+				59FAA7A12E293B2D007301BE /* 08 Navegar por vistas */,
+				59FAA7B02E293B2E007301BE /* 08 Navegar por vistasTests */,
+				59FAA7BA2E293B2E007301BE /* 08 Navegar por vistasUITests */,
+				59FAA7A02E293B2D007301BE /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		5929DA472E28ED0000198B28 /* Products */ = {
+		59FAA7A02E293B2D007301BE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5929DA462E28ED0000198B28 /* 07 Componente TextField.app */,
-				5929DA542E28ED0100198B28 /* 07 Componente TextFieldTests.xctest */,
-				5929DA5E2E28ED0100198B28 /* 07 Componente TextFieldUITests.xctest */,
+				59FAA79F2E293B2D007301BE /* 08 Navegar por vistas.app */,
+				59FAA7AD2E293B2E007301BE /* 08 Navegar por vistasTests.xctest */,
+				59FAA7B72E293B2E007301BE /* 08 Navegar por vistasUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,134 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5929DA452E28ED0000198B28 /* 07 Componente TextField */ = {
+		59FAA79E2E293B2D007301BE /* 08 Navegar por vistas */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5929DA682E28ED0100198B28 /* Build configuration list for PBXNativeTarget "07 Componente TextField" */;
+			buildConfigurationList = 59FAA7C12E293B2E007301BE /* Build configuration list for PBXNativeTarget "08 Navegar por vistas" */;
 			buildPhases = (
-				5929DA422E28ED0000198B28 /* Sources */,
-				5929DA432E28ED0000198B28 /* Frameworks */,
-				5929DA442E28ED0000198B28 /* Resources */,
+				59FAA79B2E293B2D007301BE /* Sources */,
+				59FAA79C2E293B2D007301BE /* Frameworks */,
+				59FAA79D2E293B2D007301BE /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				5929DA482E28ED0000198B28 /* 07 Componente TextField */,
+				59FAA7A12E293B2D007301BE /* 08 Navegar por vistas */,
 			);
-			name = "07 Componente TextField";
+			name = "08 Navegar por vistas";
 			packageProductDependencies = (
 			);
-			productName = "07 Componente TextField";
-			productReference = 5929DA462E28ED0000198B28 /* 07 Componente TextField.app */;
+			productName = "08 Navegar por vistas";
+			productReference = 59FAA79F2E293B2D007301BE /* 08 Navegar por vistas.app */;
 			productType = "com.apple.product-type.application";
 		};
-		5929DA532E28ED0100198B28 /* 07 Componente TextFieldTests */ = {
+		59FAA7AC2E293B2E007301BE /* 08 Navegar por vistasTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5929DA6B2E28ED0100198B28 /* Build configuration list for PBXNativeTarget "07 Componente TextFieldTests" */;
+			buildConfigurationList = 59FAA7C42E293B2E007301BE /* Build configuration list for PBXNativeTarget "08 Navegar por vistasTests" */;
 			buildPhases = (
-				5929DA502E28ED0100198B28 /* Sources */,
-				5929DA512E28ED0100198B28 /* Frameworks */,
-				5929DA522E28ED0100198B28 /* Resources */,
+				59FAA7A92E293B2E007301BE /* Sources */,
+				59FAA7AA2E293B2E007301BE /* Frameworks */,
+				59FAA7AB2E293B2E007301BE /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				5929DA562E28ED0100198B28 /* PBXTargetDependency */,
+				59FAA7AF2E293B2E007301BE /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				5929DA572E28ED0100198B28 /* 07 Componente TextFieldTests */,
+				59FAA7B02E293B2E007301BE /* 08 Navegar por vistasTests */,
 			);
-			name = "07 Componente TextFieldTests";
+			name = "08 Navegar por vistasTests";
 			packageProductDependencies = (
 			);
-			productName = "07 Componente TextFieldTests";
-			productReference = 5929DA542E28ED0100198B28 /* 07 Componente TextFieldTests.xctest */;
+			productName = "08 Navegar por vistasTests";
+			productReference = 59FAA7AD2E293B2E007301BE /* 08 Navegar por vistasTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		5929DA5D2E28ED0100198B28 /* 07 Componente TextFieldUITests */ = {
+		59FAA7B62E293B2E007301BE /* 08 Navegar por vistasUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5929DA6E2E28ED0100198B28 /* Build configuration list for PBXNativeTarget "07 Componente TextFieldUITests" */;
+			buildConfigurationList = 59FAA7C72E293B2E007301BE /* Build configuration list for PBXNativeTarget "08 Navegar por vistasUITests" */;
 			buildPhases = (
-				5929DA5A2E28ED0100198B28 /* Sources */,
-				5929DA5B2E28ED0100198B28 /* Frameworks */,
-				5929DA5C2E28ED0100198B28 /* Resources */,
+				59FAA7B32E293B2E007301BE /* Sources */,
+				59FAA7B42E293B2E007301BE /* Frameworks */,
+				59FAA7B52E293B2E007301BE /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				5929DA602E28ED0100198B28 /* PBXTargetDependency */,
+				59FAA7B92E293B2E007301BE /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				5929DA612E28ED0100198B28 /* 07 Componente TextFieldUITests */,
+				59FAA7BA2E293B2E007301BE /* 08 Navegar por vistasUITests */,
 			);
-			name = "07 Componente TextFieldUITests";
+			name = "08 Navegar por vistasUITests";
 			packageProductDependencies = (
 			);
-			productName = "07 Componente TextFieldUITests";
-			productReference = 5929DA5E2E28ED0100198B28 /* 07 Componente TextFieldUITests.xctest */;
+			productName = "08 Navegar por vistasUITests";
+			productReference = 59FAA7B72E293B2E007301BE /* 08 Navegar por vistasUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		5929DA3E2E28ED0000198B28 /* Project object */ = {
+		59FAA7972E293B2D007301BE /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1640;
 				LastUpgradeCheck = 1640;
 				TargetAttributes = {
-					5929DA452E28ED0000198B28 = {
+					59FAA79E2E293B2D007301BE = {
 						CreatedOnToolsVersion = 16.4;
 					};
-					5929DA532E28ED0100198B28 = {
+					59FAA7AC2E293B2E007301BE = {
 						CreatedOnToolsVersion = 16.4;
-						TestTargetID = 5929DA452E28ED0000198B28;
+						TestTargetID = 59FAA79E2E293B2D007301BE;
 					};
-					5929DA5D2E28ED0100198B28 = {
+					59FAA7B62E293B2E007301BE = {
 						CreatedOnToolsVersion = 16.4;
-						TestTargetID = 5929DA452E28ED0000198B28;
+						TestTargetID = 59FAA79E2E293B2D007301BE;
 					};
 				};
 			};
-			buildConfigurationList = 5929DA412E28ED0000198B28 /* Build configuration list for PBXProject "07 Componente TextField" */;
+			buildConfigurationList = 59FAA79A2E293B2D007301BE /* Build configuration list for PBXProject "08 Navegar por vistas" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 5929DA3D2E28ED0000198B28;
+			mainGroup = 59FAA7962E293B2D007301BE;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 5929DA472E28ED0000198B28 /* Products */;
+			productRefGroup = 59FAA7A02E293B2D007301BE /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5929DA452E28ED0000198B28 /* 07 Componente TextField */,
-				5929DA532E28ED0100198B28 /* 07 Componente TextFieldTests */,
-				5929DA5D2E28ED0100198B28 /* 07 Componente TextFieldUITests */,
+				59FAA79E2E293B2D007301BE /* 08 Navegar por vistas */,
+				59FAA7AC2E293B2E007301BE /* 08 Navegar por vistasTests */,
+				59FAA7B62E293B2E007301BE /* 08 Navegar por vistasUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		5929DA442E28ED0000198B28 /* Resources */ = {
+		59FAA79D2E293B2D007301BE /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5929DA522E28ED0100198B28 /* Resources */ = {
+		59FAA7AB2E293B2E007301BE /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5929DA5C2E28ED0100198B28 /* Resources */ = {
+		59FAA7B52E293B2E007301BE /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		5929DA422E28ED0000198B28 /* Sources */ = {
+		59FAA79B2E293B2D007301BE /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5929DA502E28ED0100198B28 /* Sources */ = {
+		59FAA7A92E293B2E007301BE /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5929DA5A2E28ED0100198B28 /* Sources */ = {
+		59FAA7B32E293B2E007301BE /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		5929DA562E28ED0100198B28 /* PBXTargetDependency */ = {
+		59FAA7AF2E293B2E007301BE /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5929DA452E28ED0000198B28 /* 07 Componente TextField */;
-			targetProxy = 5929DA552E28ED0100198B28 /* PBXContainerItemProxy */;
+			target = 59FAA79E2E293B2D007301BE /* 08 Navegar por vistas */;
+			targetProxy = 59FAA7AE2E293B2E007301BE /* PBXContainerItemProxy */;
 		};
-		5929DA602E28ED0100198B28 /* PBXTargetDependency */ = {
+		59FAA7B92E293B2E007301BE /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5929DA452E28ED0000198B28 /* 07 Componente TextField */;
-			targetProxy = 5929DA5F2E28ED0100198B28 /* PBXContainerItemProxy */;
+			target = 59FAA79E2E293B2D007301BE /* 08 Navegar por vistas */;
+			targetProxy = 59FAA7B82E293B2E007301BE /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		5929DA662E28ED0100198B28 /* Debug */ = {
+		59FAA7BF2E293B2E007301BE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -331,7 +331,7 @@
 			};
 			name = Debug;
 		};
-		5929DA672E28ED0100198B28 /* Release */ = {
+		59FAA7C02E293B2E007301BE /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -385,12 +385,12 @@
 			};
 			name = Release;
 		};
-		5929DA692E28ED0100198B28 /* Debug */ = {
+		59FAA7C22E293B2E007301BE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = "07 Componente TextField/_7_Componente_TextField.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "08 Navegar por vistas/_8_Navegar_por_vistas.entitlements";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = "";
@@ -412,7 +412,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-7-Componente-TextField";
+				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-8-Navegar-por-vistas";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				REGISTER_APP_GROUPS = YES;
@@ -425,12 +425,12 @@
 			};
 			name = Debug;
 		};
-		5929DA6A2E28ED0100198B28 /* Release */ = {
+		59FAA7C32E293B2E007301BE /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = "07 Componente TextField/_7_Componente_TextField.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "08 Navegar por vistas/_8_Navegar_por_vistas.entitlements";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = "";
@@ -452,7 +452,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-7-Componente-TextField";
+				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-8-Navegar-por-vistas";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				REGISTER_APP_GROUPS = YES;
@@ -465,7 +465,7 @@
 			};
 			name = Release;
 		};
-		5929DA6C2E28ED0100198B28 /* Debug */ = {
+		59FAA7C52E293B2E007301BE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -476,19 +476,19 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-7-Componente-TextFieldTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-8-Navegar-por-vistasTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/07 Componente TextField.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/07 Componente TextField";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/08 Navegar por vistas.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/08 Navegar por vistas";
 				XROS_DEPLOYMENT_TARGET = 2.5;
 			};
 			name = Debug;
 		};
-		5929DA6D2E28ED0100198B28 /* Release */ = {
+		59FAA7C62E293B2E007301BE /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -499,19 +499,19 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-7-Componente-TextFieldTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-8-Navegar-por-vistasTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/07 Componente TextField.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/07 Componente TextField";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/08 Navegar por vistas.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/08 Navegar por vistas";
 				XROS_DEPLOYMENT_TARGET = 2.5;
 			};
 			name = Release;
 		};
-		5929DA6F2E28ED0100198B28 /* Debug */ = {
+		59FAA7C82E293B2E007301BE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -521,19 +521,19 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-7-Componente-TextFieldUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-8-Navegar-por-vistasUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_TARGET_NAME = "07 Componente TextField";
+				TEST_TARGET_NAME = "08 Navegar por vistas";
 				XROS_DEPLOYMENT_TARGET = 2.5;
 			};
 			name = Debug;
 		};
-		5929DA702E28ED0100198B28 /* Release */ = {
+		59FAA7C92E293B2E007301BE /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -543,14 +543,14 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-7-Componente-TextFieldUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-8-Navegar-por-vistasUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_TARGET_NAME = "07 Componente TextField";
+				TEST_TARGET_NAME = "08 Navegar por vistas";
 				XROS_DEPLOYMENT_TARGET = 2.5;
 			};
 			name = Release;
@@ -558,43 +558,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5929DA412E28ED0000198B28 /* Build configuration list for PBXProject "07 Componente TextField" */ = {
+		59FAA79A2E293B2D007301BE /* Build configuration list for PBXProject "08 Navegar por vistas" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5929DA662E28ED0100198B28 /* Debug */,
-				5929DA672E28ED0100198B28 /* Release */,
+				59FAA7BF2E293B2E007301BE /* Debug */,
+				59FAA7C02E293B2E007301BE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5929DA682E28ED0100198B28 /* Build configuration list for PBXNativeTarget "07 Componente TextField" */ = {
+		59FAA7C12E293B2E007301BE /* Build configuration list for PBXNativeTarget "08 Navegar por vistas" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5929DA692E28ED0100198B28 /* Debug */,
-				5929DA6A2E28ED0100198B28 /* Release */,
+				59FAA7C22E293B2E007301BE /* Debug */,
+				59FAA7C32E293B2E007301BE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5929DA6B2E28ED0100198B28 /* Build configuration list for PBXNativeTarget "07 Componente TextFieldTests" */ = {
+		59FAA7C42E293B2E007301BE /* Build configuration list for PBXNativeTarget "08 Navegar por vistasTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5929DA6C2E28ED0100198B28 /* Debug */,
-				5929DA6D2E28ED0100198B28 /* Release */,
+				59FAA7C52E293B2E007301BE /* Debug */,
+				59FAA7C62E293B2E007301BE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5929DA6E2E28ED0100198B28 /* Build configuration list for PBXNativeTarget "07 Componente TextFieldUITests" */ = {
+		59FAA7C72E293B2E007301BE /* Build configuration list for PBXNativeTarget "08 Navegar por vistasUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5929DA6F2E28ED0100198B28 /* Debug */,
-				5929DA702E28ED0100198B28 /* Release */,
+				59FAA7C82E293B2E007301BE /* Debug */,
+				59FAA7C92E293B2E007301BE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 5929DA3E2E28ED0000198B28 /* Project object */;
+	rootObject = 59FAA7972E293B2D007301BE /* Project object */;
 }

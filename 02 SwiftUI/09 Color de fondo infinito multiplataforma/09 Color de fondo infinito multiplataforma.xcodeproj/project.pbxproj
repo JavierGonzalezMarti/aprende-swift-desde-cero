@@ -7,62 +7,62 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		5929DA552E28ED0100198B28 /* PBXContainerItemProxy */ = {
+		594F26292E2A9FC500607363 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 5929DA3E2E28ED0000198B28 /* Project object */;
+			containerPortal = 594F26122E2A9FC400607363 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 5929DA452E28ED0000198B28;
-			remoteInfo = "07 Componente TextField";
+			remoteGlobalIDString = 594F26192E2A9FC400607363;
+			remoteInfo = "09 Color de fondo infinito multiplataforma";
 		};
-		5929DA5F2E28ED0100198B28 /* PBXContainerItemProxy */ = {
+		594F26332E2A9FC500607363 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 5929DA3E2E28ED0000198B28 /* Project object */;
+			containerPortal = 594F26122E2A9FC400607363 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 5929DA452E28ED0000198B28;
-			remoteInfo = "07 Componente TextField";
+			remoteGlobalIDString = 594F26192E2A9FC400607363;
+			remoteInfo = "09 Color de fondo infinito multiplataforma";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		5929DA462E28ED0000198B28 /* 07 Componente TextField.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "07 Componente TextField.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5929DA542E28ED0100198B28 /* 07 Componente TextFieldTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "07 Componente TextFieldTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5929DA5E2E28ED0100198B28 /* 07 Componente TextFieldUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "07 Componente TextFieldUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		594F261A2E2A9FC400607363 /* 09 Color de fondo infinito multiplataforma.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "09 Color de fondo infinito multiplataforma.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		594F26282E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "09 Color de fondo infinito multiplataformaTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		594F26322E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "09 Color de fondo infinito multiplataformaUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		5929DA482E28ED0000198B28 /* 07 Componente TextField */ = {
+		594F261C2E2A9FC400607363 /* 09 Color de fondo infinito multiplataforma */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "07 Componente TextField";
+			path = "09 Color de fondo infinito multiplataforma";
 			sourceTree = "<group>";
 		};
-		5929DA572E28ED0100198B28 /* 07 Componente TextFieldTests */ = {
+		594F262B2E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "07 Componente TextFieldTests";
+			path = "09 Color de fondo infinito multiplataformaTests";
 			sourceTree = "<group>";
 		};
-		5929DA612E28ED0100198B28 /* 07 Componente TextFieldUITests */ = {
+		594F26352E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "07 Componente TextFieldUITests";
+			path = "09 Color de fondo infinito multiplataformaUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		5929DA432E28ED0000198B28 /* Frameworks */ = {
+		594F26172E2A9FC400607363 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5929DA512E28ED0100198B28 /* Frameworks */ = {
+		594F26252E2A9FC500607363 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5929DA5B2E28ED0100198B28 /* Frameworks */ = {
+		594F262F2E2A9FC500607363 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		5929DA3D2E28ED0000198B28 = {
+		594F26112E2A9FC400607363 = {
 			isa = PBXGroup;
 			children = (
-				5929DA482E28ED0000198B28 /* 07 Componente TextField */,
-				5929DA572E28ED0100198B28 /* 07 Componente TextFieldTests */,
-				5929DA612E28ED0100198B28 /* 07 Componente TextFieldUITests */,
-				5929DA472E28ED0000198B28 /* Products */,
+				594F261C2E2A9FC400607363 /* 09 Color de fondo infinito multiplataforma */,
+				594F262B2E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaTests */,
+				594F26352E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaUITests */,
+				594F261B2E2A9FC400607363 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		5929DA472E28ED0000198B28 /* Products */ = {
+		594F261B2E2A9FC400607363 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5929DA462E28ED0000198B28 /* 07 Componente TextField.app */,
-				5929DA542E28ED0100198B28 /* 07 Componente TextFieldTests.xctest */,
-				5929DA5E2E28ED0100198B28 /* 07 Componente TextFieldUITests.xctest */,
+				594F261A2E2A9FC400607363 /* 09 Color de fondo infinito multiplataforma.app */,
+				594F26282E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaTests.xctest */,
+				594F26322E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,134 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5929DA452E28ED0000198B28 /* 07 Componente TextField */ = {
+		594F26192E2A9FC400607363 /* 09 Color de fondo infinito multiplataforma */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5929DA682E28ED0100198B28 /* Build configuration list for PBXNativeTarget "07 Componente TextField" */;
+			buildConfigurationList = 594F263C2E2A9FC500607363 /* Build configuration list for PBXNativeTarget "09 Color de fondo infinito multiplataforma" */;
 			buildPhases = (
-				5929DA422E28ED0000198B28 /* Sources */,
-				5929DA432E28ED0000198B28 /* Frameworks */,
-				5929DA442E28ED0000198B28 /* Resources */,
+				594F26162E2A9FC400607363 /* Sources */,
+				594F26172E2A9FC400607363 /* Frameworks */,
+				594F26182E2A9FC400607363 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				5929DA482E28ED0000198B28 /* 07 Componente TextField */,
+				594F261C2E2A9FC400607363 /* 09 Color de fondo infinito multiplataforma */,
 			);
-			name = "07 Componente TextField";
+			name = "09 Color de fondo infinito multiplataforma";
 			packageProductDependencies = (
 			);
-			productName = "07 Componente TextField";
-			productReference = 5929DA462E28ED0000198B28 /* 07 Componente TextField.app */;
+			productName = "09 Color de fondo infinito multiplataforma";
+			productReference = 594F261A2E2A9FC400607363 /* 09 Color de fondo infinito multiplataforma.app */;
 			productType = "com.apple.product-type.application";
 		};
-		5929DA532E28ED0100198B28 /* 07 Componente TextFieldTests */ = {
+		594F26272E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5929DA6B2E28ED0100198B28 /* Build configuration list for PBXNativeTarget "07 Componente TextFieldTests" */;
+			buildConfigurationList = 594F263F2E2A9FC500607363 /* Build configuration list for PBXNativeTarget "09 Color de fondo infinito multiplataformaTests" */;
 			buildPhases = (
-				5929DA502E28ED0100198B28 /* Sources */,
-				5929DA512E28ED0100198B28 /* Frameworks */,
-				5929DA522E28ED0100198B28 /* Resources */,
+				594F26242E2A9FC500607363 /* Sources */,
+				594F26252E2A9FC500607363 /* Frameworks */,
+				594F26262E2A9FC500607363 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				5929DA562E28ED0100198B28 /* PBXTargetDependency */,
+				594F262A2E2A9FC500607363 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				5929DA572E28ED0100198B28 /* 07 Componente TextFieldTests */,
+				594F262B2E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaTests */,
 			);
-			name = "07 Componente TextFieldTests";
+			name = "09 Color de fondo infinito multiplataformaTests";
 			packageProductDependencies = (
 			);
-			productName = "07 Componente TextFieldTests";
-			productReference = 5929DA542E28ED0100198B28 /* 07 Componente TextFieldTests.xctest */;
+			productName = "09 Color de fondo infinito multiplataformaTests";
+			productReference = 594F26282E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		5929DA5D2E28ED0100198B28 /* 07 Componente TextFieldUITests */ = {
+		594F26312E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5929DA6E2E28ED0100198B28 /* Build configuration list for PBXNativeTarget "07 Componente TextFieldUITests" */;
+			buildConfigurationList = 594F26422E2A9FC500607363 /* Build configuration list for PBXNativeTarget "09 Color de fondo infinito multiplataformaUITests" */;
 			buildPhases = (
-				5929DA5A2E28ED0100198B28 /* Sources */,
-				5929DA5B2E28ED0100198B28 /* Frameworks */,
-				5929DA5C2E28ED0100198B28 /* Resources */,
+				594F262E2E2A9FC500607363 /* Sources */,
+				594F262F2E2A9FC500607363 /* Frameworks */,
+				594F26302E2A9FC500607363 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				5929DA602E28ED0100198B28 /* PBXTargetDependency */,
+				594F26342E2A9FC500607363 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				5929DA612E28ED0100198B28 /* 07 Componente TextFieldUITests */,
+				594F26352E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaUITests */,
 			);
-			name = "07 Componente TextFieldUITests";
+			name = "09 Color de fondo infinito multiplataformaUITests";
 			packageProductDependencies = (
 			);
-			productName = "07 Componente TextFieldUITests";
-			productReference = 5929DA5E2E28ED0100198B28 /* 07 Componente TextFieldUITests.xctest */;
+			productName = "09 Color de fondo infinito multiplataformaUITests";
+			productReference = 594F26322E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		5929DA3E2E28ED0000198B28 /* Project object */ = {
+		594F26122E2A9FC400607363 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1640;
 				LastUpgradeCheck = 1640;
 				TargetAttributes = {
-					5929DA452E28ED0000198B28 = {
+					594F26192E2A9FC400607363 = {
 						CreatedOnToolsVersion = 16.4;
 					};
-					5929DA532E28ED0100198B28 = {
+					594F26272E2A9FC500607363 = {
 						CreatedOnToolsVersion = 16.4;
-						TestTargetID = 5929DA452E28ED0000198B28;
+						TestTargetID = 594F26192E2A9FC400607363;
 					};
-					5929DA5D2E28ED0100198B28 = {
+					594F26312E2A9FC500607363 = {
 						CreatedOnToolsVersion = 16.4;
-						TestTargetID = 5929DA452E28ED0000198B28;
+						TestTargetID = 594F26192E2A9FC400607363;
 					};
 				};
 			};
-			buildConfigurationList = 5929DA412E28ED0000198B28 /* Build configuration list for PBXProject "07 Componente TextField" */;
+			buildConfigurationList = 594F26152E2A9FC400607363 /* Build configuration list for PBXProject "09 Color de fondo infinito multiplataforma" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 5929DA3D2E28ED0000198B28;
+			mainGroup = 594F26112E2A9FC400607363;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 5929DA472E28ED0000198B28 /* Products */;
+			productRefGroup = 594F261B2E2A9FC400607363 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5929DA452E28ED0000198B28 /* 07 Componente TextField */,
-				5929DA532E28ED0100198B28 /* 07 Componente TextFieldTests */,
-				5929DA5D2E28ED0100198B28 /* 07 Componente TextFieldUITests */,
+				594F26192E2A9FC400607363 /* 09 Color de fondo infinito multiplataforma */,
+				594F26272E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaTests */,
+				594F26312E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		5929DA442E28ED0000198B28 /* Resources */ = {
+		594F26182E2A9FC400607363 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5929DA522E28ED0100198B28 /* Resources */ = {
+		594F26262E2A9FC500607363 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5929DA5C2E28ED0100198B28 /* Resources */ = {
+		594F26302E2A9FC500607363 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		5929DA422E28ED0000198B28 /* Sources */ = {
+		594F26162E2A9FC400607363 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5929DA502E28ED0100198B28 /* Sources */ = {
+		594F26242E2A9FC500607363 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5929DA5A2E28ED0100198B28 /* Sources */ = {
+		594F262E2E2A9FC500607363 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		5929DA562E28ED0100198B28 /* PBXTargetDependency */ = {
+		594F262A2E2A9FC500607363 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5929DA452E28ED0000198B28 /* 07 Componente TextField */;
-			targetProxy = 5929DA552E28ED0100198B28 /* PBXContainerItemProxy */;
+			target = 594F26192E2A9FC400607363 /* 09 Color de fondo infinito multiplataforma */;
+			targetProxy = 594F26292E2A9FC500607363 /* PBXContainerItemProxy */;
 		};
-		5929DA602E28ED0100198B28 /* PBXTargetDependency */ = {
+		594F26342E2A9FC500607363 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5929DA452E28ED0000198B28 /* 07 Componente TextField */;
-			targetProxy = 5929DA5F2E28ED0100198B28 /* PBXContainerItemProxy */;
+			target = 594F26192E2A9FC400607363 /* 09 Color de fondo infinito multiplataforma */;
+			targetProxy = 594F26332E2A9FC500607363 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		5929DA662E28ED0100198B28 /* Debug */ = {
+		594F263A2E2A9FC500607363 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -331,7 +331,7 @@
 			};
 			name = Debug;
 		};
-		5929DA672E28ED0100198B28 /* Release */ = {
+		594F263B2E2A9FC500607363 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -385,15 +385,15 @@
 			};
 			name = Release;
 		};
-		5929DA692E28ED0100198B28 /* Debug */ = {
+		594F263D2E2A9FC500607363 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = "07 Componente TextField/_7_Componente_TextField.entitlements";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_ENTITLEMENTS = "09 Color de fondo infinito multiplataforma/_9_Color_de_fondo_infinito_multiplataforma.entitlements";
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = SUM986LZF3;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -412,9 +412,8 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-7-Componente-TextField";
+				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-9-Color-de-fondo-infinito-multiplataforma";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
@@ -425,15 +424,15 @@
 			};
 			name = Debug;
 		};
-		5929DA6A2E28ED0100198B28 /* Release */ = {
+		594F263E2E2A9FC500607363 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = "07 Componente TextField/_7_Componente_TextField.entitlements";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_ENTITLEMENTS = "09 Color de fondo infinito multiplataforma/_9_Color_de_fondo_infinito_multiplataforma.entitlements";
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = SUM986LZF3;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -452,9 +451,8 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-7-Componente-TextField";
+				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-9-Color-de-fondo-infinito-multiplataforma";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
@@ -465,7 +463,7 @@
 			};
 			name = Release;
 		};
-		5929DA6C2E28ED0100198B28 /* Debug */ = {
+		594F26402E2A9FC500607363 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -476,19 +474,19 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-7-Componente-TextFieldTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-9-Color-de-fondo-infinito-multiplataformaTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/07 Componente TextField.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/07 Componente TextField";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/09 Color de fondo infinito multiplataforma.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/09 Color de fondo infinito multiplataforma";
 				XROS_DEPLOYMENT_TARGET = 2.5;
 			};
 			name = Debug;
 		};
-		5929DA6D2E28ED0100198B28 /* Release */ = {
+		594F26412E2A9FC500607363 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -499,19 +497,19 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-7-Componente-TextFieldTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-9-Color-de-fondo-infinito-multiplataformaTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/07 Componente TextField.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/07 Componente TextField";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/09 Color de fondo infinito multiplataforma.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/09 Color de fondo infinito multiplataforma";
 				XROS_DEPLOYMENT_TARGET = 2.5;
 			};
 			name = Release;
 		};
-		5929DA6F2E28ED0100198B28 /* Debug */ = {
+		594F26432E2A9FC500607363 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -521,19 +519,19 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-7-Componente-TextFieldUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-9-Color-de-fondo-infinito-multiplataformaUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_TARGET_NAME = "07 Componente TextField";
+				TEST_TARGET_NAME = "09 Color de fondo infinito multiplataforma";
 				XROS_DEPLOYMENT_TARGET = 2.5;
 			};
 			name = Debug;
 		};
-		5929DA702E28ED0100198B28 /* Release */ = {
+		594F26442E2A9FC500607363 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -543,14 +541,14 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-7-Componente-TextFieldUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-9-Color-de-fondo-infinito-multiplataformaUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_TARGET_NAME = "07 Componente TextField";
+				TEST_TARGET_NAME = "09 Color de fondo infinito multiplataforma";
 				XROS_DEPLOYMENT_TARGET = 2.5;
 			};
 			name = Release;
@@ -558,43 +556,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5929DA412E28ED0000198B28 /* Build configuration list for PBXProject "07 Componente TextField" */ = {
+		594F26152E2A9FC400607363 /* Build configuration list for PBXProject "09 Color de fondo infinito multiplataforma" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5929DA662E28ED0100198B28 /* Debug */,
-				5929DA672E28ED0100198B28 /* Release */,
+				594F263A2E2A9FC500607363 /* Debug */,
+				594F263B2E2A9FC500607363 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5929DA682E28ED0100198B28 /* Build configuration list for PBXNativeTarget "07 Componente TextField" */ = {
+		594F263C2E2A9FC500607363 /* Build configuration list for PBXNativeTarget "09 Color de fondo infinito multiplataforma" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5929DA692E28ED0100198B28 /* Debug */,
-				5929DA6A2E28ED0100198B28 /* Release */,
+				594F263D2E2A9FC500607363 /* Debug */,
+				594F263E2E2A9FC500607363 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5929DA6B2E28ED0100198B28 /* Build configuration list for PBXNativeTarget "07 Componente TextFieldTests" */ = {
+		594F263F2E2A9FC500607363 /* Build configuration list for PBXNativeTarget "09 Color de fondo infinito multiplataformaTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5929DA6C2E28ED0100198B28 /* Debug */,
-				5929DA6D2E28ED0100198B28 /* Release */,
+				594F26402E2A9FC500607363 /* Debug */,
+				594F26412E2A9FC500607363 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5929DA6E2E28ED0100198B28 /* Build configuration list for PBXNativeTarget "07 Componente TextFieldUITests" */ = {
+		594F26422E2A9FC500607363 /* Build configuration list for PBXNativeTarget "09 Color de fondo infinito multiplataformaUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5929DA6F2E28ED0100198B28 /* Debug */,
-				5929DA702E28ED0100198B28 /* Release */,
+				594F26432E2A9FC500607363 /* Debug */,
+				594F26442E2A9FC500607363 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 5929DA3E2E28ED0000198B28 /* Project object */;
+	rootObject = 594F26122E2A9FC400607363 /* Project object */;
 }
