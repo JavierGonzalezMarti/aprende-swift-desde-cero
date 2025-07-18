@@ -7,62 +7,62 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		594F26292E2A9FC500607363 /* PBXContainerItemProxy */ = {
+		59E5BD3D2E2AA32B00A5A125 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 594F26122E2A9FC400607363 /* Project object */;
+			containerPortal = 59E5BD262E2AA32A00A5A125 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 594F26192E2A9FC400607363;
-			remoteInfo = "09 Color de fondo infinito multiplataforma";
+			remoteGlobalIDString = 59E5BD2D2E2AA32A00A5A125;
+			remoteInfo = "10 Toolbar";
 		};
-		594F26332E2A9FC500607363 /* PBXContainerItemProxy */ = {
+		59E5BD472E2AA32B00A5A125 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 594F26122E2A9FC400607363 /* Project object */;
+			containerPortal = 59E5BD262E2AA32A00A5A125 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 594F26192E2A9FC400607363;
-			remoteInfo = "09 Color de fondo infinito multiplataforma";
+			remoteGlobalIDString = 59E5BD2D2E2AA32A00A5A125;
+			remoteInfo = "10 Toolbar";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		594F261A2E2A9FC400607363 /* 09 Color de fondo infinito multiplataforma.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "09 Color de fondo infinito multiplataforma.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		594F26282E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "09 Color de fondo infinito multiplataformaTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		594F26322E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "09 Color de fondo infinito multiplataformaUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		59E5BD2E2E2AA32A00A5A125 /* 10 Toolbar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "10 Toolbar.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		59E5BD3C2E2AA32B00A5A125 /* 10 ToolbarTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "10 ToolbarTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		59E5BD462E2AA32B00A5A125 /* 10 ToolbarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "10 ToolbarUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		594F261C2E2A9FC400607363 /* 09 Color de fondo infinito multiplataforma */ = {
+		59E5BD302E2AA32A00A5A125 /* 10 Toolbar */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "09 Color de fondo infinito multiplataforma";
+			path = "10 Toolbar";
 			sourceTree = "<group>";
 		};
-		594F262B2E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaTests */ = {
+		59E5BD3F2E2AA32B00A5A125 /* 10 ToolbarTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "09 Color de fondo infinito multiplataformaTests";
+			path = "10 ToolbarTests";
 			sourceTree = "<group>";
 		};
-		594F26352E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaUITests */ = {
+		59E5BD492E2AA32B00A5A125 /* 10 ToolbarUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "09 Color de fondo infinito multiplataformaUITests";
+			path = "10 ToolbarUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		594F26172E2A9FC400607363 /* Frameworks */ = {
+		59E5BD2B2E2AA32A00A5A125 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		594F26252E2A9FC500607363 /* Frameworks */ = {
+		59E5BD392E2AA32B00A5A125 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		594F262F2E2A9FC500607363 /* Frameworks */ = {
+		59E5BD432E2AA32B00A5A125 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		594F26112E2A9FC400607363 = {
+		59E5BD252E2AA32A00A5A125 = {
 			isa = PBXGroup;
 			children = (
-				594F261C2E2A9FC400607363 /* 09 Color de fondo infinito multiplataforma */,
-				594F262B2E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaTests */,
-				594F26352E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaUITests */,
-				594F261B2E2A9FC400607363 /* Products */,
+				59E5BD302E2AA32A00A5A125 /* 10 Toolbar */,
+				59E5BD3F2E2AA32B00A5A125 /* 10 ToolbarTests */,
+				59E5BD492E2AA32B00A5A125 /* 10 ToolbarUITests */,
+				59E5BD2F2E2AA32A00A5A125 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		594F261B2E2A9FC400607363 /* Products */ = {
+		59E5BD2F2E2AA32A00A5A125 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				594F261A2E2A9FC400607363 /* 09 Color de fondo infinito multiplataforma.app */,
-				594F26282E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaTests.xctest */,
-				594F26322E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaUITests.xctest */,
+				59E5BD2E2E2AA32A00A5A125 /* 10 Toolbar.app */,
+				59E5BD3C2E2AA32B00A5A125 /* 10 ToolbarTests.xctest */,
+				59E5BD462E2AA32B00A5A125 /* 10 ToolbarUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,134 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		594F26192E2A9FC400607363 /* 09 Color de fondo infinito multiplataforma */ = {
+		59E5BD2D2E2AA32A00A5A125 /* 10 Toolbar */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 594F263C2E2A9FC500607363 /* Build configuration list for PBXNativeTarget "09 Color de fondo infinito multiplataforma" */;
+			buildConfigurationList = 59E5BD502E2AA32B00A5A125 /* Build configuration list for PBXNativeTarget "10 Toolbar" */;
 			buildPhases = (
-				594F26162E2A9FC400607363 /* Sources */,
-				594F26172E2A9FC400607363 /* Frameworks */,
-				594F26182E2A9FC400607363 /* Resources */,
+				59E5BD2A2E2AA32A00A5A125 /* Sources */,
+				59E5BD2B2E2AA32A00A5A125 /* Frameworks */,
+				59E5BD2C2E2AA32A00A5A125 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				594F261C2E2A9FC400607363 /* 09 Color de fondo infinito multiplataforma */,
+				59E5BD302E2AA32A00A5A125 /* 10 Toolbar */,
 			);
-			name = "09 Color de fondo infinito multiplataforma";
+			name = "10 Toolbar";
 			packageProductDependencies = (
 			);
-			productName = "09 Color de fondo infinito multiplataforma";
-			productReference = 594F261A2E2A9FC400607363 /* 09 Color de fondo infinito multiplataforma.app */;
+			productName = "10 Toolbar";
+			productReference = 59E5BD2E2E2AA32A00A5A125 /* 10 Toolbar.app */;
 			productType = "com.apple.product-type.application";
 		};
-		594F26272E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaTests */ = {
+		59E5BD3B2E2AA32B00A5A125 /* 10 ToolbarTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 594F263F2E2A9FC500607363 /* Build configuration list for PBXNativeTarget "09 Color de fondo infinito multiplataformaTests" */;
+			buildConfigurationList = 59E5BD532E2AA32B00A5A125 /* Build configuration list for PBXNativeTarget "10 ToolbarTests" */;
 			buildPhases = (
-				594F26242E2A9FC500607363 /* Sources */,
-				594F26252E2A9FC500607363 /* Frameworks */,
-				594F26262E2A9FC500607363 /* Resources */,
+				59E5BD382E2AA32B00A5A125 /* Sources */,
+				59E5BD392E2AA32B00A5A125 /* Frameworks */,
+				59E5BD3A2E2AA32B00A5A125 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				594F262A2E2A9FC500607363 /* PBXTargetDependency */,
+				59E5BD3E2E2AA32B00A5A125 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				594F262B2E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaTests */,
+				59E5BD3F2E2AA32B00A5A125 /* 10 ToolbarTests */,
 			);
-			name = "09 Color de fondo infinito multiplataformaTests";
+			name = "10 ToolbarTests";
 			packageProductDependencies = (
 			);
-			productName = "09 Color de fondo infinito multiplataformaTests";
-			productReference = 594F26282E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaTests.xctest */;
+			productName = "10 ToolbarTests";
+			productReference = 59E5BD3C2E2AA32B00A5A125 /* 10 ToolbarTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		594F26312E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaUITests */ = {
+		59E5BD452E2AA32B00A5A125 /* 10 ToolbarUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 594F26422E2A9FC500607363 /* Build configuration list for PBXNativeTarget "09 Color de fondo infinito multiplataformaUITests" */;
+			buildConfigurationList = 59E5BD562E2AA32B00A5A125 /* Build configuration list for PBXNativeTarget "10 ToolbarUITests" */;
 			buildPhases = (
-				594F262E2E2A9FC500607363 /* Sources */,
-				594F262F2E2A9FC500607363 /* Frameworks */,
-				594F26302E2A9FC500607363 /* Resources */,
+				59E5BD422E2AA32B00A5A125 /* Sources */,
+				59E5BD432E2AA32B00A5A125 /* Frameworks */,
+				59E5BD442E2AA32B00A5A125 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				594F26342E2A9FC500607363 /* PBXTargetDependency */,
+				59E5BD482E2AA32B00A5A125 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				594F26352E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaUITests */,
+				59E5BD492E2AA32B00A5A125 /* 10 ToolbarUITests */,
 			);
-			name = "09 Color de fondo infinito multiplataformaUITests";
+			name = "10 ToolbarUITests";
 			packageProductDependencies = (
 			);
-			productName = "09 Color de fondo infinito multiplataformaUITests";
-			productReference = 594F26322E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaUITests.xctest */;
+			productName = "10 ToolbarUITests";
+			productReference = 59E5BD462E2AA32B00A5A125 /* 10 ToolbarUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		594F26122E2A9FC400607363 /* Project object */ = {
+		59E5BD262E2AA32A00A5A125 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1640;
 				LastUpgradeCheck = 1640;
 				TargetAttributes = {
-					594F26192E2A9FC400607363 = {
+					59E5BD2D2E2AA32A00A5A125 = {
 						CreatedOnToolsVersion = 16.4;
 					};
-					594F26272E2A9FC500607363 = {
+					59E5BD3B2E2AA32B00A5A125 = {
 						CreatedOnToolsVersion = 16.4;
-						TestTargetID = 594F26192E2A9FC400607363;
+						TestTargetID = 59E5BD2D2E2AA32A00A5A125;
 					};
-					594F26312E2A9FC500607363 = {
+					59E5BD452E2AA32B00A5A125 = {
 						CreatedOnToolsVersion = 16.4;
-						TestTargetID = 594F26192E2A9FC400607363;
+						TestTargetID = 59E5BD2D2E2AA32A00A5A125;
 					};
 				};
 			};
-			buildConfigurationList = 594F26152E2A9FC400607363 /* Build configuration list for PBXProject "09 Color de fondo infinito multiplataforma" */;
+			buildConfigurationList = 59E5BD292E2AA32A00A5A125 /* Build configuration list for PBXProject "10 Toolbar" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 594F26112E2A9FC400607363;
+			mainGroup = 59E5BD252E2AA32A00A5A125;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 594F261B2E2A9FC400607363 /* Products */;
+			productRefGroup = 59E5BD2F2E2AA32A00A5A125 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				594F26192E2A9FC400607363 /* 09 Color de fondo infinito multiplataforma */,
-				594F26272E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaTests */,
-				594F26312E2A9FC500607363 /* 09 Color de fondo infinito multiplataformaUITests */,
+				59E5BD2D2E2AA32A00A5A125 /* 10 Toolbar */,
+				59E5BD3B2E2AA32B00A5A125 /* 10 ToolbarTests */,
+				59E5BD452E2AA32B00A5A125 /* 10 ToolbarUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		594F26182E2A9FC400607363 /* Resources */ = {
+		59E5BD2C2E2AA32A00A5A125 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		594F26262E2A9FC500607363 /* Resources */ = {
+		59E5BD3A2E2AA32B00A5A125 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		594F26302E2A9FC500607363 /* Resources */ = {
+		59E5BD442E2AA32B00A5A125 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		594F26162E2A9FC400607363 /* Sources */ = {
+		59E5BD2A2E2AA32A00A5A125 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		594F26242E2A9FC500607363 /* Sources */ = {
+		59E5BD382E2AA32B00A5A125 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		594F262E2E2A9FC500607363 /* Sources */ = {
+		59E5BD422E2AA32B00A5A125 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		594F262A2E2A9FC500607363 /* PBXTargetDependency */ = {
+		59E5BD3E2E2AA32B00A5A125 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 594F26192E2A9FC400607363 /* 09 Color de fondo infinito multiplataforma */;
-			targetProxy = 594F26292E2A9FC500607363 /* PBXContainerItemProxy */;
+			target = 59E5BD2D2E2AA32A00A5A125 /* 10 Toolbar */;
+			targetProxy = 59E5BD3D2E2AA32B00A5A125 /* PBXContainerItemProxy */;
 		};
-		594F26342E2A9FC500607363 /* PBXTargetDependency */ = {
+		59E5BD482E2AA32B00A5A125 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 594F26192E2A9FC400607363 /* 09 Color de fondo infinito multiplataforma */;
-			targetProxy = 594F26332E2A9FC500607363 /* PBXContainerItemProxy */;
+			target = 59E5BD2D2E2AA32A00A5A125 /* 10 Toolbar */;
+			targetProxy = 59E5BD472E2AA32B00A5A125 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		594F263A2E2A9FC500607363 /* Debug */ = {
+		59E5BD4E2E2AA32B00A5A125 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -304,7 +304,6 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = SUM986LZF3;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -331,7 +330,7 @@
 			};
 			name = Debug;
 		};
-		594F263B2E2A9FC500607363 /* Release */ = {
+		59E5BD4F2E2AA32B00A5A125 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -366,7 +365,6 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = SUM986LZF3;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -385,16 +383,14 @@
 			};
 			name = Release;
 		};
-		594F263D2E2A9FC500607363 /* Debug */ = {
+		59E5BD512E2AA32B00A5A125 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = "09 Color de fondo infinito multiplataforma/_9_Color_de_fondo_infinito_multiplataforma.entitlements";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_ENTITLEMENTS = "10 Toolbar/_0_Toolbar.entitlements";
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = "";
-				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
@@ -412,9 +408,8 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-9-Color-de-fondo-infinito-multiplataforma";
+				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-0-Toolbar";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
@@ -425,16 +420,14 @@
 			};
 			name = Debug;
 		};
-		594F263E2E2A9FC500607363 /* Release */ = {
+		59E5BD522E2AA32B00A5A125 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = "09 Color de fondo infinito multiplataforma/_9_Color_de_fondo_infinito_multiplataforma.entitlements";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_ENTITLEMENTS = "10 Toolbar/_0_Toolbar.entitlements";
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = "";
-				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
@@ -452,9 +445,8 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-9-Color-de-fondo-infinito-multiplataforma";
+				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-0-Toolbar";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
@@ -465,92 +457,88 @@
 			};
 			name = Release;
 		};
-		594F26402E2A9FC500607363 /* Debug */ = {
+		59E5BD542E2AA32B00A5A125 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = SUM986LZF3;
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-9-Color-de-fondo-infinito-multiplataformaTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-0-ToolbarTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/09 Color de fondo infinito multiplataforma.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/09 Color de fondo infinito multiplataforma";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/10 Toolbar.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/10 Toolbar";
 				XROS_DEPLOYMENT_TARGET = 2.5;
 			};
 			name = Debug;
 		};
-		594F26412E2A9FC500607363 /* Release */ = {
+		59E5BD552E2AA32B00A5A125 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = SUM986LZF3;
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-9-Color-de-fondo-infinito-multiplataformaTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-0-ToolbarTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/09 Color de fondo infinito multiplataforma.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/09 Color de fondo infinito multiplataforma";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/10 Toolbar.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/10 Toolbar";
 				XROS_DEPLOYMENT_TARGET = 2.5;
 			};
 			name = Release;
 		};
-		594F26432E2A9FC500607363 /* Debug */ = {
+		59E5BD572E2AA32B00A5A125 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = SUM986LZF3;
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-9-Color-de-fondo-infinito-multiplataformaUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-0-ToolbarUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_TARGET_NAME = "09 Color de fondo infinito multiplataforma";
+				TEST_TARGET_NAME = "10 Toolbar";
 				XROS_DEPLOYMENT_TARGET = 2.5;
 			};
 			name = Debug;
 		};
-		594F26442E2A9FC500607363 /* Release */ = {
+		59E5BD582E2AA32B00A5A125 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = SUM986LZF3;
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-9-Color-de-fondo-infinito-multiplataformaUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "Javi.-0-ToolbarUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_TARGET_NAME = "09 Color de fondo infinito multiplataforma";
+				TEST_TARGET_NAME = "10 Toolbar";
 				XROS_DEPLOYMENT_TARGET = 2.5;
 			};
 			name = Release;
@@ -558,43 +546,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		594F26152E2A9FC400607363 /* Build configuration list for PBXProject "09 Color de fondo infinito multiplataforma" */ = {
+		59E5BD292E2AA32A00A5A125 /* Build configuration list for PBXProject "10 Toolbar" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				594F263A2E2A9FC500607363 /* Debug */,
-				594F263B2E2A9FC500607363 /* Release */,
+				59E5BD4E2E2AA32B00A5A125 /* Debug */,
+				59E5BD4F2E2AA32B00A5A125 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		594F263C2E2A9FC500607363 /* Build configuration list for PBXNativeTarget "09 Color de fondo infinito multiplataforma" */ = {
+		59E5BD502E2AA32B00A5A125 /* Build configuration list for PBXNativeTarget "10 Toolbar" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				594F263D2E2A9FC500607363 /* Debug */,
-				594F263E2E2A9FC500607363 /* Release */,
+				59E5BD512E2AA32B00A5A125 /* Debug */,
+				59E5BD522E2AA32B00A5A125 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		594F263F2E2A9FC500607363 /* Build configuration list for PBXNativeTarget "09 Color de fondo infinito multiplataformaTests" */ = {
+		59E5BD532E2AA32B00A5A125 /* Build configuration list for PBXNativeTarget "10 ToolbarTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				594F26402E2A9FC500607363 /* Debug */,
-				594F26412E2A9FC500607363 /* Release */,
+				59E5BD542E2AA32B00A5A125 /* Debug */,
+				59E5BD552E2AA32B00A5A125 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		594F26422E2A9FC500607363 /* Build configuration list for PBXNativeTarget "09 Color de fondo infinito multiplataformaUITests" */ = {
+		59E5BD562E2AA32B00A5A125 /* Build configuration list for PBXNativeTarget "10 ToolbarUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				594F26432E2A9FC500607363 /* Debug */,
-				594F26442E2A9FC500607363 /* Release */,
+				59E5BD572E2AA32B00A5A125 /* Debug */,
+				59E5BD582E2AA32B00A5A125 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 594F26122E2A9FC400607363 /* Project object */;
+	rootObject = 59E5BD262E2AA32A00A5A125 /* Project object */;
 }
