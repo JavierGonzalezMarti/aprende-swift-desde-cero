@@ -1,6 +1,6 @@
 //
-//  _0_ToolbarApp.swift
-//  10 Toolbar
+//  _1_Componente_ToggleApp.swift
+//  11 Componente Toggle
 //
 //  Created by Javi on 18/7/25.
 //
@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct _0_ToolbarApp: App {
+struct _1_Componente_ToggleApp: App {
     var body: some Scene {
         WindowGroup {
-            MenuPrincipal()
+            ContentView()
         }
     }
 }

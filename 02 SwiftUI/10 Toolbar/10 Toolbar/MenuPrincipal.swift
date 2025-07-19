@@ -7,18 +7,48 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct MenuPrincipal: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+        NavigationStack {
+            
+            VStack {
+                NavigationLink(destination: App1()) {
+                    
+                        Text("App 1")
+                    }
+                
+                NavigationLink(destination: App2()) {
+                    
+                        Text("App 2")
+                    }
+                
+                NavigationLink(destination: App3()) {
+                    
+                        Text("App 3")
+                    }
+                
+                NavigationLink(destination: App4()) {
+                    
+                        Text("App 4")
+                    }
+                
+                NavigationLink(destination: App5()) {
+                    
+                        Text("App 5")
+                    }
+                
+                
+            
+            }
+            .frame(maxWidth: .infinity, maxHeight: .infinity)
+            .background(Color.fondoMenuPrincipal)
         }
-        .padding()
     }
+    
+    
 }
 
+
 #Preview {
-    ContentView()
+    MenuPrincipal()
 }

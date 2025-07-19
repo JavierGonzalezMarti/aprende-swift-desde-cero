@@ -9,7 +9,24 @@ import SwiftUI
 
 struct App4: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+       
+        VStack {
+            Text("APLICACIÓN 4")
+                .foregroundColor(.black)
+        }
+        
+        .frame(maxWidth: .infinity, maxHeight: .infinity)
+        .background(Color.fondoApp4)
+        .toolbar {
+            ToolbarItem(placement: .principal){
+                Text("Título de la App4")
+                    .foregroundColor(.black)
+                
+            }
+            
+        }
+        
+        
     }
 }
 
