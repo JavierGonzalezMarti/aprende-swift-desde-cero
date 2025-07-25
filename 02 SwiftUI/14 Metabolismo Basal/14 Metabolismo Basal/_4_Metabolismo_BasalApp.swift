@@ -11,7 +11,7 @@ import SwiftUI
 struct _4_Metabolismo_BasalApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            VistaPrincipal()
         }
     }
 }
